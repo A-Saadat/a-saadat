@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Saadat</h1>
 <h3 align="center">Junior Front-End Developer and Web Designer</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on **Placket**
 
