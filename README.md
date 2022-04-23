@@ -22,5 +22,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+Adobe XD 	![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-saadat)](https://github.com/anuraghazra/github-readme-stats)
