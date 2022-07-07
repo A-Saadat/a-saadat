@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front-End Developer and Web Designer</h3>
 
 
-- 🔭 I’m currently working on **Placket**
+- 🔭 I’m currently working on **Spotify-Clone :)**
 
 - 🌱 I’m currently learning **Javascript, Algorithm, Data structre**
 
