@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Spotify-Clone :)**
 
-- 🌱 I’m currently learning **Javascript, Algorithm, Data structre**
+- 🌱 I’m currently learning **Javascript, Algorithm, C++**
 
 - 📫 How to reach me **Ali.Saadat.4950@gmail.com**
 
