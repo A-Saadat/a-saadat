@@ -11,12 +11,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ali-saadat-46a673218/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-<p align="center">
   <a href="[https://www.linkedin.com/in/ali-saadat-46a673218/](https://www.instagram.com/ali_saadat._/)">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
